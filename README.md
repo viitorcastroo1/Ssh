@@ -2,7 +2,7 @@
 Install
 -------
 
-	go install -v github.com/aztecrabbit/bugscanner-go@latest
+	go install -v github.com/viitotcastroo1/ssh@latest
 
 
 #### Add go bin to PATH
