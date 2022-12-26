@@ -1,9 +1,3 @@
-# Bugscanner Go
-
-This tool is dedicated to [DARKTUNNEL.NET](https://www.darktunnel.net), please support us if you find this tool useful.
-
-Join to our telegram group @darktunnel_group or click [here](https://t.me/darktunnel_group).
-
 
 Install
 -------
@@ -61,7 +55,4 @@ Visit subfinder repo if you want to install subfinder [here](https://github.com/
 * Another subcommand for scanning will be updated soon.
 
 
-Updating
---------
-
-	GOPROXY=direct go get -v github.com/aztecrabbit/bugscanner-go
+-----
